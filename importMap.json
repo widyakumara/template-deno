@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@dotenv": "https://deno.land/std/dotenv/load.ts",
+    "@server": "https://deno.land/std/http/server.ts"
+  }
+}
